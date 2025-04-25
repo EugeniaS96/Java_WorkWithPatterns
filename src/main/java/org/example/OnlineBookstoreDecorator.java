@@ -1,6 +1,5 @@
 package org.example;
 
-// Декоратор для онлайн-продаж
 class OnlineBookstoreDecorator implements Publisher {
     private final Bookstore bookStore;
 
